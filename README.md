@@ -122,7 +122,7 @@ cd PhoneSploit-by-frn
 pip install -r requirements.txt
 ```
 ```
-python3 phonesploitpro.py
+python3 phonesploitbyfrn.py
 ```
 Open terminal and paste the following commands : 
 ```
