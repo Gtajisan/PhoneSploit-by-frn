@@ -113,10 +113,10 @@ Make sure all the [required](https://github.com/AzeemIdrisi/PhoneSploit-Pro#requ
 ### termux 
 Open terminal and paste the following commands : 
 ```
-git clone https://github.com/Gtajisan/PhoneSploit-by-frn.git
+git clone https://github.com/Gtajisan/PhoneSploit-by-frn
 ```
 ```
-cd PhoneSploit-Pro/
+cd PhoneSploit-by-frn
 ```
 ```
 pip install -r requirements.txt
