@@ -110,6 +110,20 @@ __PhoneSploit Pro__ does not need any installation and runs directly using `pyth
 
 Make sure all the [required](https://github.com/AzeemIdrisi/PhoneSploit-Pro#requirements) software are installed.
 
+### termux 
+Open terminal and paste the following commands : 
+```
+git clone https://github.com/Gtajisan/PhoneSploit-by-frn.git
+```
+```
+cd PhoneSploit-Pro/
+```
+```
+pip install -r requirements.txt
+```
+```
+python3 phonesploitpro.py
+```
 Open terminal and paste the following commands : 
 ```
 git clone https://github.com/Gtajisan/PhoneSploit-by-frn.git
