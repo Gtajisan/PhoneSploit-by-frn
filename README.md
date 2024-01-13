@@ -106,9 +106,6 @@ __PhoneSploit Pro__ does not need any installation and runs directly using `pyth
 
 > **PhoneSploit Pro** requires Python version 3.10 or above. Please update Python before running the program to meet the requirement.
 
-#### On Linux / macOS :
-
-Make sure all the [required](https://github.com/AzeemIdrisi/PhoneSploit-Pro#requirements) software are installed.
 
 ### termux 
 Open terminal and paste the following commands : 
@@ -124,6 +121,10 @@ pip install -r requirements.txt
 ```
 python3 phonesploitbyfrn.py
 ```
+
+#### On Linux / macOS :
+
+Make sure all the [required](https://github.com/AzeemIdrisi/PhoneSploit-Pro#requirements) software are installed.
 Open terminal and paste the following commands : 
 ```
 git clone https://github.com/Gtajisan/PhoneSploit-by-frn.git
