@@ -1,9 +1,9 @@
 """
     COPYRIGHT DISCLAIMER
 
-    Script : PhoneSploit Pro - All in One Android Hacking ADB Toolkit  
+    Script : PhoneSploit-by-frn- All in One Android Hacking ADB Toolkit  
 
-    Copyright (C) 2023  Mohd Azeem (github.com/AzeemIdrisi)
+    Copyright (C) 2024  FARHAN MUH TASIM (https://github.com/Gtajisan)
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -19,10 +19,10 @@
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
     Forking and modifying are allowed, but credit must be given to the
-    original developer, [Mohd Azeem (github.com/AzeemIdrisi)], and copying the code
+    original developer, [FARHAN MUH TASIM (https://github.com/Gtajisan)], and copying the code
     is not permitted without permission.
 
-    For any queries, Contact me at : azeemidrisi@protonmail.com
+    For any queries, Contact me at : ffjisan804@gmail.com
 """
 
 from modules import color
@@ -92,92 +92,115 @@ Use 'Ctrl + C' to stop at any point
 
 banner2 = f"""
 
-        ░█▀▀█ █──█ █▀▀█ █▀▀▄ █▀▀ ░█▀▀▀█ █▀▀█ █── █▀▀█ ─▀─ ▀▀█▀▀ 　 ░█▀▀█ █▀▀█ █▀▀█ 
-        ░█▄▄█ █▀▀█ █──█ █──█ █▀▀ ─▀▀▀▄▄ █──█ █── █──█ ▀█▀ ──█── 　 ░█▄▄█ █▄▄▀ █──█ 
-        ░█─── ▀──▀ ▀▀▀▀ ▀──▀ ▀▀▀ ░█▄▄▄█ █▀▀▀ ▀▀▀ ▀▀▀▀ ▀▀▀ ──▀── 　 ░█─── ▀─▀▀ ▀▀▀▀
+    
+                                                                           
+ _____ _               _____     _     _ _       _           ___           
+|  _  | |_ ___ ___ ___|   __|___| |___|_| |_ ___| |_ _ _ ___|  _|___ ___   
+|   __|   | . |   | -_|__   | . | | . | |  _|___| . | | |___|  _|  _|   |  
+|__|  |_|_|___|_|_|___|_____|  _|_|___|_|_|     |___|_  |   |_| |_| |_|_|  
+                            |_|                     |___|                  
 
 
-            {color.RED}{version}{color.WHITE}            {color.WHITE}By github.com/AzeemIdrisi
+
+            {color.RED}{version}{color.WHITE}            {color.WHITE}By https://github.com/Gtajisan
 """
 
 banner3 = f"""
 
-        █▀█ █░█ █▀█ █▄░█ █▀▀ █▀ █▀█ █░░ █▀█ █ ▀█▀   █▀█ █▀█ █▀█
-        █▀▀ █▀█ █▄█ █░▀█ ██▄ ▄█ █▀▀ █▄▄ █▄█ █ ░█░   █▀▀ █▀▄ █▄█ 
+        
+█▀█ █░█ █▀█ █▄░█ █▀▀ █▀ █▀█ █░░ █▀█ █ ▀█▀ ▄▄ █▄▄ █▄█ ▄▄ █▀▀ █▀█
+█▀▀ █▀█ █▄█ █░▀█ ██▄ ▄█ █▀▀ █▄▄ █▄█ █ ░█░ ░░ █▄█ ░█░ ░░ █▀░ █▀▄
 
 
-            {color.RED}{version}{color.WHITE}             {color.WHITE}By github.com/AzeemIdrisi
+            {color.RED}{version}{color.WHITE}             {color.WHITE}By https://github.com/Gtajisan
 """
 
 banner4 = f"""
-    _________.__                           _________      .__         .__  __    __________                 
-    \______  \\  |__   ____   ____   ____  /   _____/_____ |  |   ____ |__|/  |_  \______   \_______  ____   
-    |     ___/  |  \ /  _ \ /    \_/ __ \ \_____  \\\____ \|  |  /  _ \|  \   __\  |     ___/\_  __ \/  _ \  
-    |    |   |   Y  (  <_> )   |  \  ___/ /        \  |_> >  |_(  <_> )  ||  |    |    |     |  | \(  <_> ) 
-    |____|   |___|  /\____/|___|  /\___  >_______  /   __/|____/\____/|__||__|    |____|     |__|   \____/
-                  \/            \/     \/        \/|__|                                                      
+    
+  _____  _                       _____       _       _ _          _                   __            
+ |  __ \| |                     / ____|     | |     (_) |        | |                 / _|           
+ | |__) | |__   ___  _ __   ___| (___  _ __ | | ___  _| |_ ______| |__  _   _ ______| |_ _ __ _ __  
+ |  ___/| '_ \ / _ \| '_ \ / _ \\___ \| '_ \| |/ _ \| | __|______| '_ \| | | |______|  _| '__| '_ \ 
+ | |    | | | | (_) | | | |  __/____) | |_) | | (_) | | |_       | |_) | |_| |      | | | |  | | | |
+ |_|    |_| |_|\___/|_| |_|\___|_____/| .__/|_|\___/|_|\__|      |_.__/ \__, |      |_| |_|  |_| |_|
+                                      | |                                __/ |                      
+                                      |_|                               |___/                       
 
 
-        {color.RED}{version}{color.WHITE}                             {color.WHITE}By github.com/AzeemIdrisi
+
+        {color.RED}{version}{color.WHITE}                             {color.WHITE}By https://github.com/Gtajisan
 """
 banner5 = f"""
-       ___  __                 ____     __     _ __     ___         
-      / _ \/ /  ___  ___  ___ / __/__  / /__  (_) /_   / _ \_______ 
-     / ___/ _ \/ _ \/ _ \/ -_)\ \/ _ \/ / _ \/ / __/  / ___/ __/ _ \\
-    /_/  /_//_/\___/_//_/\__/___/ .__/_/\___/_/\__/  /_/  /_/  \___/
-                               /_/                                                                                                      
+       
+    ____  __                    _____       __      _ __        __                ____         
+   / __ \/ /_  ____  ____  ___ / ___/____  / /___  (_) /_      / /_  __  __      / __/________ 
+  / /_/ / __ \/ __ \/ __ \/ _ \\__ \/ __ \/ / __ \/ / __/_____/ __ \/ / / /_____/ /_/ ___/ __ \
+ / ____/ / / / /_/ / / / /  __/__/ / /_/ / / /_/ / / /_/_____/ /_/ / /_/ /_____/ __/ /  / / / /
+/_/   /_/ /_/\____/_/ /_/\___/____/ .___/_/\____/_/\__/     /_.___/\__, /     /_/ /_/  /_/ /_/ 
+                                 /_/                              /____/                       
+                                                                      
 
-        {color.RED}{version}{color.WHITE}        {color.WHITE}By github.com/AzeemIdrisi
+        {color.RED}{version}{color.WHITE}        {color.WHITE}By https://github.com/Gtajisan
 """
 
 banner6 = f"""
-        ____  __                    _____       __      _ __       ____           
-       / __ \/ /_  ____  ____  ___ / ___/____  / /___  (_) /_     / __ \_________ 
-      / /_/ / __ \/ __ \/ __ \/ _ \\\__ \/ __ \/ / __ \/ / __/    / /_/ / ___/ __ \\
-     / ____/ / / / /_/ / / / /  __/__/ / /_/ / / /_/ / / /_     / ____/ /  / /_/ /
-    /_/   /_/ /_/\____/_/ /_/\___/____/ .___/_/\____/_/\__/    /_/   /_/   \____/
+  
+   ___ _                      __       _       _ _        _                  __            
+  / _ \ |__   ___  _ __   ___/ _\_ __ | | ___ (_) |_     | |__  _   _       / _|_ __ _ __  
+ / /_)/ '_ \ / _ \| '_ \ / _ \ \| '_ \| |/ _ \| | __|____| '_ \| | | |_____| |_| '__| '_ \ 
+/ ___/| | | | (_) | | | |  __/\ \ |_) | | (_) | | ||_____| |_) | |_| |_____|  _| |  | | | |
+\/    |_| |_|\___/|_| |_|\___\__/ .__/|_|\___/|_|\__|    |_.__/ \__, |     |_| |_|  |_| |_|
+                                |_|                             |___/                      
+
                                      /_/                                                                                                       
     
-           {color.RED}{version}{color.WHITE}               {color.WHITE}By github.com/AzeemIdrisi
+           {color.RED}{version}{color.WHITE}               {color.WHITE}By https://github.com/Gtajisan
 
 """
 
 banner10 = f"""
-     ____    __                              ____            ___               __        ____                        
-    /\  _`\ /\ \                            /\  _`\         /\_ \           __/\ \__    /\  _`\                      
-    \ \ \L\ \ \ \___     ___     ___      __\ \,\L\_\  _____\//\ \     ___ /\_\ \ ,_\   \ \ \L\ \_ __   ___          
-     \ \ ,__/\ \  _ `\  / __`\ /' _ `\  /'__`\/_\__ \ /\ '__`\\\ \ \   / __`\/\ \ \ \/    \ \ ,__/\`'__\/ __`\        
-      \ \ \/  \ \ \ \ \/\ \L\ \/\ \/\ \/\  __/ /\ \L\ \ \ \L\ \\\_\ \_/\ \L\ \ \ \ \ \_    \ \ \/\ \ \//\ \L\ \       
-       \ \_\   \ \_\ \_\ \____/\ \_\ \_\ \____\\\ `\____\ \ ,__//\____\ \____/\ \_\ \__\    \ \_\ \ \_\\\ \____/       
-        \/_/    \/_/\/_/\/___/  \/_/\/_/\/____/ \/_____/\ \ \/ \/____/\/___/  \/_/\/__/     \/_/  \/_/ \/___/      
-                                                         \ \_\                                                       
-                                                          \/_/                                              
 
-            {color.RED}{version}{color.WHITE}                                {color.WHITE}By github.com/AzeemIdrisi
+ ___  _                   ___       _       _    _        _              ___          
+| . \| |_  ___ ._ _  ___ / __> ___ | | ___ <_> _| |_ ___ | |_  _ _  ___ | | '_ _ ._ _ 
+|  _/| . |/ . \| ' |/ ._>\__ \| . \| |/ . \| |  | | |___|| . \| | ||___|| |-| '_>| ' |
+|_|  |_|_|\___/|_|_|\___.<___/|  _/|_|\___/|_|  |_|      |___/`_. |     |_| |_|  |_|_|
+                              |_|                             <___'                   
+
+
+            {color.RED}{version}{color.WHITE}                                {color.WHITE}By https://github.com/Gtajisan
 
 """
 
 banner11 = f"""
-    _____________                   ________       ______     __________       ________              
-    ___  __ \__  /_____________________  ___/__________  /________(_)_  /_      ___  __ \____________ 
-    __  /_/ /_  __ \  __ \_  __ \  _ \____ \___  __ \_  /_  __ \_  /_  __/      __  /_/ /_  ___/  __ \\
-    _  ____/_  / / / /_/ /  / / /  __/___/ /__  /_/ /  / / /_/ /  / / /_        _  ____/_  /   / /_/ /
-    /_/     /_/ /_/\____//_/ /_/\___//____/ _  .___//_/  \____//_/  \__/        /_/     /_/    \____/
-                                            /_/                                                      
+   
+ ______  _                          _          _       _         _                ___            
+(_____ \| |                        | |        | |     (_)_      | |              / __)           
+ _____) ) | _   ___  ____   ____    \ \  ____ | | ___  _| |_ ___| | _  _   _ ___| |__ ____ ____  
+|  ____/| || \ / _ \|  _ \ / _  )    \ \|  _ \| |/ _ \| |  _|___) || \| | | (___)  __) ___)  _ \ 
+| |     | | | | |_| | | | ( (/ / _____) ) | | | | |_| | | |__   | |_) ) |_| |   | | | |   | | | |
+|_|     |_| |_|\___/|_| |_|\____|______/| ||_/|_|\___/|_|\___)  |____/ \__  |   |_| |_|   |_| |_|
+                                        |_|                           (____/                     
 
 
-            {color.RED}{version}{color.WHITE}                            {color.WHITE}By github.com/AzeemIdrisi
+
+            {color.RED}{version}{color.WHITE}                            {color.WHITE}By https://github.com/Gtajisan
 
 """
 
 banner12 = f"""
 
-        ▒█▀▀█ █░░█ █▀▀█ █▀▀▄ █▀▀ ▒█▀▀▀█ █▀▀█ █░░ █▀▀█ ░▀░ ▀▀█▀▀ 　 ▒█▀▀█ █▀▀█ █▀▀█ 
-        ▒█▄▄█ █▀▀█ █░░█ █░░█ █▀▀ ░▀▀▀▄▄ █░░█ █░░ █░░█ ▀█▀ ░░█░░ 　 ▒█▄▄█ █▄▄▀ █░░█ 
-        ▒█░░░ ▀░░▀ ▀▀▀▀ ▀░░▀ ▀▀▀ ▒█▄▄▄█ █▀▀▀ ▀▀▀ ▀▀▀▀ ▀▀▀ ░░▀░░ 　 ▒█░░░ ▀░▀▀ ▀▀▀▀   
+        
+PPPP  h                  SSS       l         t      b              ff              
+P   P h                 S          l     ii  t      b              f               
+PPPP  hhh  ooo nnn  eee  SSS  ppp  l ooo    ttt --- bbb  y  y --- fff rrr nnn      
+P     h  h o o n  n e e     S p  p l o o ii  t      b  b y  y      f  r   n  n     
+P     h  h ooo n  n ee  SSSS  ppp  l ooo ii  tt     bbb   yyy      f  r   n  n     
+                              p                             y                      
+                              p                          yyy                       
 
 
-            {color.RED}{version}{color.WHITE}                            {color.WHITE}By github.com/AzeemIdrisi
+
+            {color.RED}{version}{color.WHITE}                            {color.WHITE}By https://github.com/Gtajisan
 
 """
 banner_list = [
@@ -220,5 +243,5 @@ keycode_menu = f"""
    {color.WHITE}10. {color.GREEN}Delete/Backspace
 """
 """
-Copyright © 2023 Mohd Azeem (github.com/AzeemIdrisi)
+Copyright © 2024 FARHAN MUH TASIM (https://github.com/Gtajisan)
 """
