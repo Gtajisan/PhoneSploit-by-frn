@@ -1,6 +1,6 @@
 <div align="center">
   
-# PhoneSploit Pro
+# PhoneSploit-by-frn
   
 ### PhoneSploit with Metasploit Integration.
 
@@ -21,7 +21,7 @@ This tool can automatically __Create__, __Install__, and __Run__ payload on the 
 
 The goal of this project is to make penetration testing on Android devices easy. Now you don't have to learn commands and arguments, PhoneSploit Pro does it for you. Using this tool, you can test the security of your Android devices easily.
 
-> __PhoneSploit Pro__ can also be used as a complete ADB Toolkit to perform various operations on Android devices over Wi-Fi as well as USB. 
+> __PhoneSploit-by-frn__ can also be used as a complete ADB Toolkit to perform various operations on Android devices over Wi-Fi as well as USB. 
 
 # Features 
 ## v1.0
@@ -112,7 +112,7 @@ Make sure all the [required](https://github.com/AzeemIdrisi/PhoneSploit-Pro#requ
 
 Open terminal and paste the following commands : 
 ```
-git clone https://github.com/AzeemIdrisi/PhoneSploit-Pro.git
+git clone https://github.com/Gtajisan/PhoneSploit-by-frn.git
 ```
 ```
 cd PhoneSploit-Pro/
@@ -130,7 +130,7 @@ Make sure all the [required](https://github.com/AzeemIdrisi/PhoneSploit-Pro#requ
 
 Open terminal and paste the following commands : 
 ```
-git clone https://github.com/AzeemIdrisi/PhoneSploit-Pro.git
+git clone https://github.com/Gtajisan/PhoneSploit-by-frn.git
 ```
 ```
 cd PhoneSploit-Pro/
@@ -355,14 +355,14 @@ pkg install nmap
 
 # Developer
 
-<a href="https://github.com/azeemidrisi/">
+<a href="https://github.com/Gtajsam/">
 <!--   <img src="https://contrib.rocks/image?repo=azeemidrisi/phonesploit-pro" /> -->
  <img width="150px" src=https://github.com/AzeemIdrisi/PhoneSploit-Pro/assets/112647789/a5fa646c-93a2-460f-bcb7-528fedb147e9 />
 
 </a>
 
 
-**Azeem Idrisi** - [@AzeemIdrisi](https://github.com/azeemidrisi/)
+**FARHAN-MUH-TASIM** - [@FARHAN-MUH-TASIM](https://github.com/Gtajisan/)
  
 
 # Support Me
